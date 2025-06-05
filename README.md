@@ -1,6 +1,6 @@
  Hi there 👋 I'm Ardent Svosvai
 
-🎓 I'm currently a student at **Belgium Campus** in **Johannesburg, Gauteng, South Africa**, pursuing a **Bachelor's degree in Information Technology** (2025 - 2028).
+🎓 I'm currently a student at **Belgium Campus** in **Johannesburg, Gauteng, South Africa**, pursuing a **Bachelor of Computing in Information Technology** (2025 - 2028).
 
 💻 I'm passionate about software development, technology, and continuous learning. I’m working on building strong foundations in IT while exploring modern technologies and real-world applications.
 
